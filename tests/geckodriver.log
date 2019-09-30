@@ -1,0 +1,16 @@
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569546148442	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileiIJ1br"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 09:02:29.057: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569546149373	Marionette	INFO	Listening on port 43659
+1569546149449	Marionette	WARN	TLS certificate errors will be ignored for this session
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569546431378	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilectxjFu"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 09:07:12.022: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569546432336	Marionette	INFO	Listening on port 34695
+1569546432387	Marionette	WARN	TLS certificate errors will be ignored for this session

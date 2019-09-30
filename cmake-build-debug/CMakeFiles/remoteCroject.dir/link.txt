@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/remoteCroject.dir/main.cpp.o CMakeFiles/remoteCroject.dir/multhreading.c.o CMakeFiles/remoteCroject.dir/mix_thread.cpp.o  -o remoteCroject 

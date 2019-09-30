@@ -1,0 +1,296 @@
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569224714286	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileMZvt1G"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:45:27.194: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569224728674	Marionette	INFO	Listening on port 38586
+1569224728738	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569224752070	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile3jCQpF"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:45:52.653: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569224753001	Marionette	INFO	Listening on port 41237
+1569224753080	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569224794938	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilewwMs66"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:46:35.573: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569224795936	Marionette	INFO	Listening on port 45812
+1569224795942	Marionette	WARN	TLS certificate errors will be ignored for this session
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569224970375	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileGoCzWn"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:49:30.969: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569224971328	Marionette	INFO	Listening on port 37983
+1569224971381	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1569224973147	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4459
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2306
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569225010491	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilegPKLwL"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:50:11.096: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569225011453	Marionette	INFO	Listening on port 46315
+1569225011503	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1569225013342	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4459
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2306
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+[Parent 16141, Gecko_IOThread] WARNING: pipe error (62): Connection reset by peer: file /builddir/build/BUILD/firefox-60.7.2/ipc/chromium/src/chrome/common/ipc_channel_posix.cc, line 342
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569225018590	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile1vKSoK"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:50:19.196: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569225019537	Marionette	INFO	Listening on port 43174
+1569225019594	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+1569225021536	addons.xpi	WARN	Exception running bootstrap method shutdown on activity-stream@mozilla.org: [Exception... "Component returned failure code: 0x80004005 (NS_ERROR_FAILURE) [nsIObserverService.removeObserver]"  nsresult: "0x80004005 (NS_ERROR_FAILURE)"  location: "JS frame :: resource://activity-stream/lib/SnippetsFeed.jsm :: uninit :: line 185"  data: no] Stack trace: uninit()@resource://activity-stream/lib/SnippetsFeed.jsm:185
+onAction()@resource://activity-stream/lib/SnippetsFeed.jsm:201
+_middleware/</<()@resource://activity-stream/lib/Store.jsm:49
+Store/this[method]()@resource://activity-stream/lib/Store.jsm:28
+uninit()@resource://activity-stream/lib/Store.jsm:151
+uninit()@resource://activity-stream/lib/ActivityStream.jsm:300
+uninit()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:73
+shutdown()@resource://gre/modules/addons/XPIProvider.jsm -> jar:file:///usr/lib64/firefox/browser/features/activity-stream@mozilla.org.xpi!/bootstrap.js:169
+callBootstrapMethod()@resource://gre/modules/addons/XPIProvider.jsm:4459
+observe()@resource://gre/modules/addons/XPIProvider.jsm:2306
+GeckoDriver.prototype.quit()@driver.js:3300
+despatch()@server.js:293
+execute()@server.js:267
+onPacket/<()@server.js:242
+onPacket()@server.js:241
+_onJSONObjectReady/<()@transport.js:500
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569225706890	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileSD2Fch"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:01:47.789: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569225708111	Marionette	INFO	Listening on port 36324
+1569225708194	Marionette	WARN	TLS certificate errors will be ignored for this session
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+1569228272053	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilezSjs2c"
+Failed to open connection to "session" message bus: Unable to autolaunch a dbus-daemon without a $DISPLAY for X11
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:44:48.375: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569228290484	Marionette	INFO	Listening on port 41383
+1569228290591	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://d1.weather.com.cn/satellite/JC_YT_DL_WXZXCSYT_4A.html?callback=readerinfo&_=1569228299641, line 1: TypeError: readerinfo is not a function
+console.log: Accessibility service init or shutdown observer does not exist.
+*** UTM:SVC TimerManager:registerTimer called after profile-before-change notification. Ignoring timer registration for id: telemetry_modules_ping
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466388857	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilehYqO7x"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 10:53:11.649: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466392188	Marionette	INFO	Listening on port 46342
+1569466392268	Marionette	WARN	TLS certificate errors will be ignored for this session
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466431195	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRl2WZX"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 10:53:51.753: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466432051	Marionette	INFO	Listening on port 37291
+1569466432099	Marionette	WARN	TLS certificate errors will be ignored for this session
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466489774	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilet8MfSM"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 10:54:50.344: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466490647	Marionette	INFO	Listening on port 34064
+1569466490682	Marionette	WARN	TLS certificate errors will be ignored for this session
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466523312	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileUYPFF8"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 10:55:23.869: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466524172	Marionette	INFO	Listening on port 34311
+1569466524217	Marionette	WARN	TLS certificate errors will be ignored for this session
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466602399	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileNq3o0m"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 10:56:42.961: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466603253	Marionette	INFO	Listening on port 43043
+1569466603305	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466840472	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileLcOUT6"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 11:00:41.048: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466841367	Marionette	INFO	Listening on port 42396
+1569466841376	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569466945778	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileYcYhbw"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 11:02:26.343: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569466946635	Marionette	INFO	Listening on port 35205
+1569466946685	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569483836218	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileV7V9mu"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:43:58.460: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569483838745	Marionette	INFO	Listening on port 43069
+1569483838825	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569483994418	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile8yrwdT"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:46:35.012: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569483995316	Marionette	INFO	Listening on port 38609
+1569483995321	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569484006069	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRu2nQP"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:46:46.657: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569484006962	Marionette	INFO	Listening on port 36299
+1569484006973	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569484466094	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileir7ELS"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 15:54:26.686: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569484466984	Marionette	INFO	Listening on port 44429
+1569484466999	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569485802996	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilerP33f3"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:16:43.589: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569485803897	Marionette	INFO	Listening on port 43191
+1569485803900	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569485865279	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofile6iUHGI"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:17:45.872: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569485866183	Marionette	INFO	Listening on port 45117
+1569485866289	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569486206758	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofiler63iWo"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:23:27.379: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569486207670	Marionette	INFO	Listening on port 40886
+1569486207761	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569486316427	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofilemg7fEm"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:25:17.023: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569486317324	Marionette	INFO	Listening on port 43428
+1569486317331	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569487673806	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileBQac4j"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:47:54.499: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569487674798	Marionette	INFO	Listening on port 40337
+1569487674810	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569487692614	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileRWNvET"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:48:13.244: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569487693539	Marionette	INFO	Listening on port 37324
+1569487693617	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+1569488189259	mozrunner::runner	INFO	Running command: "/bin/firefox" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "/tmp/rust_mozprofileDtoQat"
+dbus-send: /opt/anaconda3/lib/libdbus-1.so.3: version `LIBDBUS_PRIVATE_1.10.24' not found (required by dbus-send)
+Running without a11y support!
+*** You are running in headless mode.
+GLib-GIO-Message: 16:56:29.849: Using the 'memory' GSettings backend.  Your settings will not be saved or shared with other applications.
+1569488190147	Marionette	INFO	Listening on port 44255
+1569488190163	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: http://forecast.weather.com.cn/town/weathern/101271601.shtml, line 315: TypeError: villagesContainer is null
+JavaScript error: http://i.tq121.com.cn/j/jquery-1.8.2.js?20161206_145316, line 1: TypeError: e is undefined

@@ -1,0 +1,3 @@
+/opt/workspace/project/remoteCropject/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/opt/workspace/project/remoteCropject/cmake-build-debug/CMakeFiles/remoteCroject.dir
+/opt/workspace/project/remoteCropject/cmake-build-debug/CMakeFiles/edit_cache.dir
